@@ -1,5 +1,5 @@
 <?
 
-echo "hello world";
+echo "Ola mundo";
 
 ?>
